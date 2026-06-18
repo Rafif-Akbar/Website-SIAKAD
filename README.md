@@ -141,7 +141,7 @@ siakad/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/NouzenXCS/siakad.git
+git clone https://github.com/Rafif-Akbar/Website-SIAKAD.git
 
 cd siakad
 ```
