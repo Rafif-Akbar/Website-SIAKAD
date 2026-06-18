@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <style>
+    table { border-collapse: collapse; font-family: Arial, sans-serif; }
+    th { background: #1f4e79; color: #ffffff; font-weight: 700; }
+    th, td { border: 1px solid #9ca3af; padding: 8px 10px; }
+    .note { background: #fff2cc; font-weight: 700; padding: 8px 10px; margin-bottom: 10px; display: inline-block; }
+  </style>
+</head>
+<body>
+  <div class="note">Template Import Siswa. Isi data pada baris kosong di bawah header. Kolom wajib: nisn, nama, kelas, jk. Status: Aktif, Cuti, Pindah, atau Drop Out. Password boleh dikosongkan agar dibuat otomatis.</div>
+  <table>
+    <tr>
+      <th>nisn</th>
+      <th>nama</th>
+      <th>kelas</th>
+      <th>jk</th>
+      <th>status</th>
+      <th>password</th>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>Aktif</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>Aktif</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>Aktif</td>
+      <td></td>
+    </tr>
+  </table>
+</body>
+</html>
